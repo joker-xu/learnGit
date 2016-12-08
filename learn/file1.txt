@@ -1,2 +1,3 @@
 Git is a version control system.
 Git is a free software.
+你应该了解真相，真相会使你自由！
